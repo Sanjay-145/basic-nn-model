@@ -5,8 +5,7 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-
-Explain the problem statement
+A neural network with multiple hidden layers and multiple nodes in each hidden layer is known as a deep learning system or a deep neural network. Deep learning is the development of deep learning algorithms that can be used to train and predict output from complex data.The word “deep” in Deep Learning refers to the number of hidden layers i.e. depth of the neural network. Essentially, every neural network with more than three layers, that is, including the Input Layer and Output Layer can be considered a Deep Learning Model.TensorFlow, an open-source software library for machine learning, offers a robust framework for implementing neural network regression models.The Reluactivation function helps neural networks form deep learning models. Due to the vanishing gradient issues in different layers, you cannot use the hyperbolic tangent and sigmoid activation. You can overcome the gradient problems through the Relu activation function.
 
 ## Neural Network Model
 
@@ -29,7 +28,7 @@ Create MinMaxScalar objects ,fit the model and transform the data.
 
 ### STEP 4:
 
-Build the Neural Network Model and compile the model.
+Build the Neural Network Model with hidden layer 1 - 5 neurons , hidden layer 2 - 3 neurons and compile the model.
 
 ### STEP 5:
 
