@@ -3,9 +3,7 @@
 ## AIM
 
 To develop a neural network regression model for the given dataset.
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
